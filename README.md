@@ -26,12 +26,6 @@ I am passionate about Data Analytics, Business Intelligence, and Data Engineerin
 - Cloud: AWS, Azure
 - Tools: Excel, Git
 
----
-
-## 📈 GitHub Stats
-![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutu-waghela&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rutu-waghela)
