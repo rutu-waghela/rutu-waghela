@@ -33,6 +33,6 @@ I am passionate about Data Analytics, Business Intelligence, and Data Engineerin
 
 
 ## 🌐 Connect with Me
-Email: rutuwaghela11@gmail.com
-Linkedin:  Rutu Waghela(https://linkedin.com/in/rutu-waghela)
+- Email: rutuwaghela11@gmail.com
+- Linkedin:  Rutu Waghela(https://linkedin.com/in/rutu-waghela)
 
