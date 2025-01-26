@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Rutu Waghela 👋
+
+I am passionate about Data Analytics, Business Intelligence, and Data Engineering! 🚀 I aim to solve real-world problems with data-driven insights and contribute to impactful projects.
+
+---
+
+## 🌟 Skills
+- Programming: Python, SQL
+- Visualization: Power BI, Tableau
+- Cloud: AWS, Azure
+- Tools: Excel, Git
+
+---
+
+## 📈 GitHub Stats
+![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutu-waghela&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rutu-waghela)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://your-portfolio-link)
