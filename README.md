@@ -19,7 +19,7 @@ I am passionate about Data Analytics, Business Intelligence, and Data Engineerin
 
 ---
 ## Education
-- Master's in Information Systems at Syracuse University, Syracuse, NY (Maay 2024)
+- Master's in Information Systems at Syracuse University, Syracuse, NY (May 2024)
 - Bachelor's in Electornics and Telecommunications at Mumbai University, Mumbai (May 2021)
   
 ## 🌟 Skills
